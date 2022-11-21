@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607938452216",
+    "project_id": "quizgo-592de",
+    "storage_bucket": "quizgo-592de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607938452216:android:0ebe50a82185a7cd27790d",
+        "android_client_info": {
+          "package_name": "com.example.quizgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607938452216-rjhvt1rr0jqejgo7r3t3tqgou14pd5q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhvOu46FFInNFI8kufb_KacRFACfIDcbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607938452216-rjhvt1rr0jqejgo7r3t3tqgou14pd5q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
