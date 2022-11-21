@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1305" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/drawable/Copy of button_bg (1).xml" value="0.1305" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/drawable/Copy of button_bg (2).xml" value="0.1305" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/drawable/Copy of button_bg.xml" value="0.1305" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/drawable/button_bg.xml" value="0.1305" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1305" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/layout/activity_play.xml" value="0.22" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/layout/activity_result.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/layout/activity_splashscreen.xml" value="0.1" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/layout/correct_dialoag.xml" value="0.1" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/layout/time_over_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/gamer one/AndroidStudioProjects/QuizGO/app/src/main/res/layout/wrong_dialog.xml" value="0.6430921052631579" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
